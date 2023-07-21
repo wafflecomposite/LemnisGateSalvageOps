@@ -34,6 +34,7 @@ If your version of the game is different, please let me know about it through `I
 - Upon joining, match will be restarted
 
 If at least one of the players does **not** have a game available in Steam:  
+- This solution requires full mod installation, just changing the config file won't cut it
 - Launch the game by clicking the `LemnisGate.exe` in game folder. (Make sure all players have launched the game through `LemnisGate.exe` and not through **Steam**)
 - Make sure everybody is online in **Steam** and shown to be playing `Spacewar` (Spacewar's appID usage is allowed for developers' needs, see [Steamworks documentation](https://partner.steamgames.com/doc/sdk/api/example), there is no known cases of bans for that)
 - Continue following the instructions above, starting with `P2P (DEV)` menu option
@@ -44,7 +45,7 @@ If at least one of the players does **not** have a game available in Steam:
 - This will work if you are physically on the same network, or connected to the same virtual private network together, by using tools like ZeroTier or Hamachi
 - The firewall can be a problem, the host may need to disable it  
 
-This will require additional setup for everyone involved:
+This will require full mod installed, and additional setup for everyone involved:
 - Open the game folder
 - From here, proceed to `Engine\Binaries\ThirdParty\Steamworks\Steamv147\Win64`
 - Open the `DLL_LAN` folder, copy `steam_api64.dll`, get back and paste it to `Win64` folder, agree to replace the file
