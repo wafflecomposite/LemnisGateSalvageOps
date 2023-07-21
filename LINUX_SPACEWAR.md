@@ -4,7 +4,7 @@ This won't be pretty.
 
 - You have to actually download Spacewar. There is a bunch of ways to do that, one of them is to navigate to this page https://steamdb.info/app/480/ and click a button on the top right that says `Install` or `Owned`
 - Get to the `Spacewar` folder. You can do that by right-clicking the game in your library, click `Properties`, open `Installed Files` tab and click `Browse...` button
-- Note the `SteamworksExample.exe`. If it's there, delete everything inside this folder
+- Note the `SteamworksExample.exe`. Confirm it's there, delete everything inside this folder
 - Move the Lemnis Gate game contents to this folder. Apply the mod if you haven't already done that.
 - Rename `LemnisGate.exe` to `SteamworksExample.exe`, make sure it is now located exactly where the original `SteamworksExample.exe` was before
 - You may need to apply `Steam Play compatibility tool` in Spacewar's properties, usual Linux stuff
