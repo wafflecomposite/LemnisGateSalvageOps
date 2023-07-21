@@ -1,5 +1,5 @@
 # Lemnis Gate: Salvage Ops
-
+# Unfinished, check back later
 Lemnis Gate has been [discontinued since the April 11 2023](https://store.steampowered.com/news/app/950180/view/3678916525459103536), with the developers stating that the PC players will be completely unable to play.  
 I'd like to respectfully disagree.  
 **The cycle must continue.**
@@ -14,7 +14,10 @@ Current scope is:
 - Make it **playable on Linux** (by disabling EAC)
 
 ## Installation
-**Work in progress, check back later**
+**NOTE:**  If you and the people you want to play with own the game on Steam, installing the mod is optional.  
+You can just *change one text file* to unlock Steam P2P and WIP content. [Refer to this guide](/EASY_P2P.md).
+
+- Download SalvageOps.zip from the Releases tab
 
 ## Known issues
 - Modded game may occasionally open Frontier's issue tracker page in your default browser after the match (you can just close it)
