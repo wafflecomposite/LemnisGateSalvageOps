@@ -1,0 +1,4 @@
+[package]
+name = "LemnisGateLauncher"
+version = "1.0.0"
+edition = "2021"
