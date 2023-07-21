@@ -1,4 +1,5 @@
 If you and the people you want to play with own the game on Steam, installing the mod is optional.  
+**Windows only, Linux support requires a full patch.**
 You can simply edit the config file to enable developer mode which will unlock Steam P2P and WIP content:  
 - Download the game on Steam, run it once and exit it from the main menu.
 - Locale the config folder: `C:\Users\YOUR_USERNAME\AppData\Local\LemnisGate\Saved\Config\WindowsNoEditor`
