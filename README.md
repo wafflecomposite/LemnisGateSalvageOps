@@ -16,7 +16,7 @@ Current scope is:
 ## Installation
 ### **IMPORTANT NOTE:**  If you **and** the people you want to play with own the game on **Steam**, installing the mod is **optional**. You can just *change one text file* to unlock Steam P2P and WIP content. [**Refer to this guide**](/EASY_P2P.md).
 
-- Locate the game folder. For *Steam*, you can do that by right-clicking the game in your library, open `Installed Files` tab and click `Browse...` button
+- Locate the game folder. For *Steam*, you can do that by right-clicking the game in your library, click `Properties`, open `Installed Files` tab and click `Browse...` button
 - (Optional, Windows-only) If there is an `EasyAntiCheat` folder, uninstall it. Open the `EasyAntiCheat` folder, launch `EasyAntiCheat_Setup.exe`, click the `Uninstall` button in the left bottom corner in the EAC window, close the window, delete the `EasyAntiCheat` folder
 - Download [`SalvageOps.zip` from the Releases tab](https://github.com/wafflecomposite/LemnisGateSalvageOps/releases/download/1.0/SalvageOps.zip)
 - Move the contents of the archive to the folder of game (to the root one that contains `LemnisGate.exe`), agree to replace the files
@@ -38,7 +38,7 @@ If at least one of the players does **not** have a game available in Steam:
 - Launch the game by clicking the `LemnisGate.exe` in game folder. (Make sure all players have launched the game through `LemnisGate.exe` and not through **Steam**)
 - Make sure everybody is online in **Steam** and shown to be playing `Spacewar` (Spacewar's appID usage is allowed for developers' needs, see [Steamworks documentation](https://partner.steamgames.com/doc/sdk/api/example), there is no known cases of bans for that)
 - Continue following the instructions above, starting with `P2P (DEV)` menu option
-- Doesn't seem to be possible for Linux: even if you add an `.exe` through `Add Non-Steam Game...` menu, Steam doesn't not registers you playing it and you wouldn't be able to find a match, so you might have to rely on LAN P2P solition. I haven't tested it, but it might be possible to actually install `Spacewar`, then replace the game's contents with Lemnis Gate and rename the `LemnisGate.exe` to whatever name Spacewar uses for it's `.exe` so Steam would launch the Lemnis Gate instead, still showing that you play `Spacewar`. If anyone knows how to actually fix this without going for 100 extra miles for it, please let me know.
+- It won't work on Linux. If you really desperate to run Lemnis Gate as Spacewar on Linux, there is a [special silly guide](/LINUX_SPACEWAR.md). If anyone knows the better way, please let me know.
 
 ### LAN P2P
 - Does **NOT** require Steam at all
