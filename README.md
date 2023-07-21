@@ -48,7 +48,7 @@ This will require additional setup for everyone involved:
 - Open the game folder
 - From here, proceed to `Engine\Binaries\ThirdParty\Steamworks\Steamv147\Win64`
 - Open the `DLL_LAN` folder, copy `steam_api64.dll`, get back and paste it to `Win64` folder, agree to replace the file
-- (Should you change you mind and want to use Steam P2P again, do the same, but copy the `steam_api64.dll` from `DLL_STEAM` folder)
+- (Should you change you mind and want to use Steam P2P again, do the same, but copy the `steam_api64.dll` from `DLL_STEAM` folder instead)
 - From `Win64` folder, go to `lan_config\settings`, open the `account_name.txt` and enter the desired nickname
 - Done. Continue following the instructions above, starting with `P2P (DEV)` menu option
 
