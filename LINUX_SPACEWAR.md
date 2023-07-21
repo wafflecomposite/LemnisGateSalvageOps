@@ -2,7 +2,7 @@
 So, you want to run Lemnis Gate on Linux, but you want it to show up as Spacewar for Steam P2P to work?  
 This won't be pretty.  
 
-- You have to actually download Spacewar. There is a bunch of ways to do that, one of them is to navigate your browser to this page and click this link: [steam://install/480](steam://install/480). Hopefully, Steam will show you the installation prompt.
+- You have to actually download Spacewar. There is a bunch of ways to do that, one of them is to navigate to this page https://steamdb.info/app/480/ and click a button on the top right that says `Install` or `Owned`
 - Get to the `Spacewar` folder. You can do that by right-clicking the game in your library, click `Properties`, open `Installed Files` tab and click `Browse...` button
 - Note the `SteamworksExample.exe`. If it's there, delete everything inside this folder
 - Move the Lemnis Gate game contents to this folder. Apply the mod if you haven't already done that.
