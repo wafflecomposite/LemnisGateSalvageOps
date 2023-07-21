@@ -13,6 +13,9 @@ Current scope is:
 - Unlock beta-only "Chameleon company" customization tree for every character
 - Make it **playable on Steam Deck** (on Linux in general)
 
+### Watch the Announcement Trailer on YouTube!
+[![](https://markdown-videos.vercel.app/youtube/JrneJLFikWE)](https://youtu.be/JrneJLFikWE)
+
 ## Installation
 ### **IMPORTANT NOTE:**  If you **and** the people you want to play with own the game on **Steam**, installing the mod is **optional**. You can just *change one text file* to unlock Steam P2P and WIP content. [**Refer to this guide**](/EASY_P2P.md).
 
@@ -55,11 +58,12 @@ This will require full mod installed, and additional setup for everyone involved
 
 
 ## Known issues
-- Inviting and joining through Steam overlay will **NOT** work, use the ingame `P2P (dev)` menu.
+- Inviting and joining through Steam overlay will **NOT** work, use the ingame `P2P (dev)` menu
 - `EasyAntiCheat client integrity error` in main menu. (just press `Ok`)
 - Modded game may open Frontier's issue tracker page in your default browser after the end of P2P match (you can just close it)
 - LAN P2P match can sometimes show your PC device name for whatever reason. If that might be a problem for you, open the search bar, search for `about your pc`, open the settings and press the `Rename this PC` button  
 - Some videos (usually on the loading screens) may not play on Steam Deck/Linux, instead showing a colorful table. This does not affect gameplay.  
+- Occasional freezes if you finished a match, went to the menu, and tried to create a new lobby with a prototype map
 
 
 'Lemnis Gate', 'Frontier', 'Frontier Foundry', Frontier logo and Lemnis Gate logo are trademarks of Frontier Developments plc and are not covered by this repository's license.
