@@ -8,7 +8,7 @@ With all due respect, I'd like to disagree.
 **Salvage Ops** is a mod set designed to bring the game back to a functional state and provide access to unreleased WIP content.  
 Current scope is:  
 - Allow **Peer-to-Peer multiplayer** through *Steam* and *LAN*, featuring *spectator* role
-- Unlock **63 playable map** prototypes with **2 unreleased play** modes. (All of them is pretty early in the prototype stages)
+- Unlock **63 playable map prototypes** with **2 unreleased play modes**
 - Unlock beta-only "Chameleon company" customization tree for every character
 - Make it **playable on Steam Deck** (on Linux in general)
 
