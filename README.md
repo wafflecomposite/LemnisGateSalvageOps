@@ -21,6 +21,9 @@ You can just *change one text file* to unlock Steam P2P and WIP content. [**Refe
 - Download [`SalvageOps.zip` from the Releases tab](https://github.com/wafflecomposite/LemnisGateSalvageOps/releases/download/1.0/SalvageOps.zip)
 - Move the contents of the archive to the folder of game (to the root one that contains `LemnisGate.exe`), agree to replace the files
 
+Target game version: `1.3.26342`. We don't expect further updates, but if your Steam version of the game differs from this one, chances are the developers are intentionally trying to break this patch and changes may be required.
+If your version of the game is different, please let me know through `Issues` about.
+
 ## Usage
 ### Steam P2P:
 - Launch the game through **Steam** (Make sure all players have launched the game with **Steam** and not by clicking the `.exe` files)
