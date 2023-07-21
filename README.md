@@ -41,7 +41,7 @@ If at least one of the players does **not** have a game available in Steam:
 
 ### LAN P2P
 - Does **NOT** require Steam at all
-- This will work if you are physically on the same network, or connect to the same virtual private network together, by using tools like ZeroTier or Hamachi
+- This will work if you are physically on the same network, or connected to the same virtual private network together, by using tools like ZeroTier or Hamachi
 - The firewall can be a problem, the host may need to disable it  
 
 This will require additional setup for everyone involved:
