@@ -1,8 +1,9 @@
 # Lemnis Gate: Salvage Ops
 Lemnis Gate has been [discontinued since the April 11 2023](https://store.steampowered.com/news/app/950180/view/3678916525459103536), with the developers stating that the PC players will be completely unable to play.  
 With all due respect, I'd like to disagree.  
-**The cycle must continue.**
+### **The cycle must continue.**  
 
+![Lemnis Gate: Salvage Ops](/Media/salvageops.png)
 ---
 
 **Salvage Ops** is a mod set designed to bring the game back to a functional state and provide access to unreleased WIP content.  
