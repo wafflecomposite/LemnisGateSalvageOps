@@ -57,4 +57,5 @@ This will require additional setup for everyone involved:
 - Inviting and joining through Steam overlay will **NOT** work, use the ingame `P2P (dev)` menu.
 - `EasyAntiCheat client integrity error` in main menu. (just press `Ok`)
 - Modded game may open Frontier's issue tracker page in your default browser after the end of P2P match (you can just close it)
-- LAN P2P match can sometimes show your PC device name for whatever reason. If that might be a problem for you, open the search bar, search for `about your pc`, open the settings and press the `Rename this PC` button
+- LAN P2P match can sometimes show your PC device name for whatever reason. If that might be a problem for you, open the search bar, search for `about your pc`, open the settings and press the `Rename this PC` button  
+- Some videos (usually on the loading screens) may not play on Steam Deck/Linux, instead showing a colorful table. This does not affect gameplay.  
