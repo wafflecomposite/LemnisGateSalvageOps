@@ -13,4 +13,5 @@ EnvironmentType=DEV
 - Save and close it.
 - Make sure the people you want to play with are on your Steam friends list, and that both you and they are **online** in Steam.
 
-If you did everything correctly, the next time you start the game you will find a new `P2P (DEV)` item in the menu, that will allow you to play with friends, and a number of new maps.
+If you did everything correctly, the next time you start the game you will find a new `P2P (DEV)` item in the menu, that will allow you to play with friends, and a number of new maps.  
+Inviting and joining through Steam overlay will NOT work, use the ingame P2P (dev) menu.  
