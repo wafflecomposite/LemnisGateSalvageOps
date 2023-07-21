@@ -30,7 +30,7 @@ If your version of the game is different, please let me know about it through `I
 ## Usage
 ### Steam P2P:
 - Launch the game through **Steam** (Make sure all players have launched the game with **Steam** and not by clicking the `.exe` files)
-- Make sure everybody is online in **Steam** and shown to be playing `Lemnis Gate`
+- Make sure everybody you want to play with is in your Steam Friend's list, is online and shown to be playing `Lemnis Gate`
 - Click `P2P (DEV)` menu option
 - To host a game, use `Create Session` ingame tab to create a match
 - To join a game, use `Join Session` ingame tab to find the match. Inviting and joining through Steam overlay will **NOT** work
