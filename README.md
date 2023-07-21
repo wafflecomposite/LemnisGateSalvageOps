@@ -11,7 +11,7 @@ Current scope is:
 - Allow **Peer-to-Peer multiplayer** through *Steam* and *LAN*, featuring *spectator* role
 - Unlock **63 playable map** prototypes with **2 unreleased play** modes. (All of them is pretty early in the prototype stages)
 - Unlock beta-only "Chameleon company" customization tree for every character
-- Make it **playable on Steam Deck (on Linux in general)** (by disabling EAC)
+- Make it **playable on Steam Deck** (on Linux in general)
 
 ## Installation
 **NOTE:**  If you **and** the people you want to play with own the game on **Steam**, installing the mod is **optional**.  
