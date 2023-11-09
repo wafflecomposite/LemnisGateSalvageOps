@@ -55,6 +55,7 @@ This will require full mod installed, and additional setup for everyone involved
 - (Should you change you mind and want to use Steam P2P again, do the same, but copy the `steam_api64.dll` from `DLL_STEAM` folder instead)
 - From `Win64` folder, go to `lan_config\settings`, open the `account_name.txt` and enter the desired nickname
 - Done. Continue following the instructions above, starting with `P2P (DEV)` menu option
+- If you copied the game folder to another computer and can't find the lobby, while being sure that it's not a connection problem, having the same ID in "user_steam_id.txt" file might be the cause. Make sure to delete that file from the game's folder archive or change any few digits in it on the other's PCs so they differ. Check out the issue https://github.com/wafflecomposite/LemnisGateSalvageOps/issues/2 for more info.
 
 
 ## Known issues
